@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.Collections.Concurrent;
 using System.Threading;
 
-namespace EventSystem
+namespace Envis10n.Events
 {
     static class Time
     {
