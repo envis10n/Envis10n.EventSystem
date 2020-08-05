@@ -9,9 +9,14 @@
     <PackageTags>events, tasks, concurrency</PackageTags>
     <Authors>envis10n</Authors>
     <Company>envis10n</Company>
-    <Version>0.1.0</Version>
-    <License>MIT</License>
+    <Version>0.1.1</Version>
     <PackageId>Envis10n.EventSystem</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/envis10n/Envis10n.EventSystem</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/envis10n/Envis10n.EventSystem</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyVersion>0.1.1.0</AssemblyVersion>
+    <FileVersion>0.1.1.0</FileVersion>
   </PropertyGroup>
 
 </Project>
