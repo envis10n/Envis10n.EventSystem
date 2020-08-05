@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>Envis10n.EventSystem</Product>
+    <Description>A concurrent event loop system using Tasks.</Description>
+    <Copyright>envis10n@envis10n.dev</Copyright>
+    <PackageTags>events, tasks, concurrency</PackageTags>
+    <Authors>envis10n</Authors>
+    <Company>envis10n</Company>
+    <Version>0.1.0</Version>
+    <License>MIT</License>
+    <PackageId>Envis10n.EventSystem</PackageId>
+  </PropertyGroup>
+
+</Project>
